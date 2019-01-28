@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: segment
+  profiles:
+    active: '@profileActive@'
